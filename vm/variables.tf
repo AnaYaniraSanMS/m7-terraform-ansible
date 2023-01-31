@@ -1,0 +1,10 @@
+variable "rg_name" {}
+variable "rg_location" {}
+variable "vm_password" {}
+variable "vm_username" {}
+variable "pip_name" {}
+variable "pip_allocation_method" {}
+variable "vnet_name" {}
+variable "subnet_name" {}
+variable "netinter_name" {}
+variable "vm_name" {}

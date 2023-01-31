@@ -1,0 +1,2 @@
+[vm-jenkins]
+jenkins ansible_host=jenkinsAdmin@172.177.122.84
